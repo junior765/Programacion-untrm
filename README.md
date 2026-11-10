@@ -6,7 +6,7 @@ Este repositorio es mi espacio personal de aprendizaje, donde comparto práctica
 
 ## 👨‍🎓 Sobre mí
 
-Soy Ricardo Junior Mestanza Tuesta, estudiante universitario de Ingeniería de la Energía. Me interesa complementar mi formación profesional con conocimientos de programación y herramientas digitales que me permitan organizar información, resolver problemas y desarrollar proyectos de manera más eficiente.
+Soy un estudiante universitario de Ingeniería de la Energía. Me interesa complementar mi formación profesional con conocimientos de programación y herramientas digitales que me permitan organizar información, resolver problemas y desarrollar proyectos de manera más eficiente.
 
 Considero que aprender a programar también significa aprender a analizar situaciones, proponer soluciones y mejorar continuamente a partir de la práctica.
 
